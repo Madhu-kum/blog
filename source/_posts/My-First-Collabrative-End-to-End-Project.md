@@ -12,7 +12,7 @@ It was week 11 and we were done with front-end, now the time was to implement th
 
 There were many platforms where you can give a test and evaluate yourself but there is no such platform where you can create your test and share the same among your circle to evaluate them. So, we took this challenge and started our "First Collaborative End-to-End Project".
 
-We got the project and we were very excited and nervous. New experience and exposure to work in a group there was a lot to learn and fear that how will I make it to work and the duration to complete this was 1 week.
+I got the project and Karthik was my parthner. We were very excited and nervous. New experience and exposure to work in a group there was a lot to learn and fear that how will I make it to work and the duration to complete this was 1 week.
 
 New day new start new project many things were there to do and started with thinking what all need to be there in the project how the flow should be and made DFD (data flow diagram) using (draw.io) and got to know the flow of the project. After that started working on mock-ups did use Figma and made the complete UI designs. Planned everything when what and how it should be done. Raised issue with what needs to be done, when need to be done and by whom.
 
